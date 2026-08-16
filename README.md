@@ -19,6 +19,6 @@ Our team aimed to compare if meaningful differences exist between the two league
 
 ## Authors
 
-Ragan Price
+Ragan Price, Simon Malone, D'Marley Grant
 
 *This analysis was completed as a team for BAN-6001-B.*
