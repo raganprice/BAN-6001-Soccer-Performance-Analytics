@@ -5,7 +5,7 @@
 - Key decision: Organized dataset to identify categorial variables from continuous variables easier.
 
 ## Assignment 3: Descriptive Stats (2026-07-26)
-- Cleaning done: Removed unneeded or redudant variables such as Minutes %, 90 minutes played, Completed Matches, Goals For, Goals Against, and Net +/- per 90
+- Cleaning done: Removed unneeded or redudant variables such as Minutes %, 90 minutes played, Completed Matches, Goals For, Goals Against, and Net +/- per 90.
 - Most surprising pattern: Many outliers due differing player times. We also found it surprising how the majority of the continuous variables are rightly skewed.
 
 ## Assignment 4: Probability (2026-07-26)
@@ -22,5 +22,5 @@ Confidence Interval — 95% CI for mean Team Points Per Match: (1.252, 1.325), c
 
 ## Assignment 6: Regression (2026-08-11)
 - First predictor removed and why: Minutes removed because it had the highest p-value in
-Model 1, p = 0.625, which is not significant at alpha = 0.05
+Model 1, p = 0.625, which is not significant at alpha = 0.05.
 - Multicollinearity handling: We resolved multicollinearity by dropping the minutes variable as minutes and % of squad minutes were heavily correlated.
