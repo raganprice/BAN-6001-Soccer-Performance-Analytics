@@ -2,10 +2,10 @@
 
 ## About the Project
 
-**Dataset:** Kaggle | **Topic:** Individual performance stats for players in English Premier League and Italian Serie A | **Size:** 1,160 rows x 15 variables
+**Dataset:** "EPL Serie A" derived from Kaggle | **Topic:** Individual performance stats for players in English Premier League and Italian Serie A | **Size:** 1,160 rows x 15 variables
 
 **Research Question:** 
-Our team aimed to compare if meaningful differences exist between the two leagues to determine player performance and discipline, specifically yellow and red cards.
+Our team aimed to compare if meaningful differences exist between the two leagues to determine player performance and discipline, specifically the relationship between player time and yellow/red cards.
 
 ## Repository Structure
 
